@@ -1,0 +1,37 @@
+Hi! Thanks for downloading my game. I made it in about eight days for 7dfps 2020: https://itch.io/jam/7dfps-2020
+
+You can find me on Twitter at @mahalis or by email at mahalis@gmail.com.
+
+I made the code and art using the following:
+
+• Unreal Engine
+• Houdini
+• Substance Designer
+• Affinity Photo
+• EmberGen
+
+
+The sound and music are by ssccaappeeggooaatt, whose other work you can find here:
+
+https://soundcloud.com/ssccaappeeggooaatt
+https://open.spotify.com/artist/691YS8P7F5iOmMMHuKrzLb
+https://www.youtube.com/channel/UCyp_dv0dqsoo3ackdIaHWIw
+
+
+The font used for the title is Heroes Legend by imagex <imagex1@wanadoo.fr>; the menu and HUD text is set in Louis George Cafe by Chen Yining <yiningchen23@gmail.com>.
+
+
+How to play:
+
+Grapple into the large orbs to burst them and earn points. Attach to the floating grapple points by aiming at them and holding down the mouse button (if you’re using a mouse) or the trigger (if you’re using a gamepad).
+
+
+Controls:
+• To move, use WASD on a keyboard or the left gamepad joystick.
+• To look around, use the mouse or the right gamepad joystick.
+• To attach to a grapple point you’re looking at, press and hold the left or right mouse button, or press the left or right gamepad trigger.
+• To jump, use the space bar on a keyboard or any of the buttons (ABXY / shapes) on a gamepad.
+• To adjust options with a gamepad, use the D-pad (arrow buttons on the left side).
+
+
+Thanks again for checking out my game, and for reading this far — I hope you enjoy it!
